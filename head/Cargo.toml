@@ -5,5 +5,5 @@ edition.workspace = true
 license.workspace = true
 
 [dependencies]
-file-utils = { path = "../file-utils" }
+file-utils = { path = "../libs/file-utils" }
 clap = { workspace = true }

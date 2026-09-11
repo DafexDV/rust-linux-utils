@@ -5,7 +5,7 @@ members = [
     "cat",
     "wc",
     "head",
-    "file-utils"
+    "libs/file-utils"
 ]
 
 [workspace.package]
