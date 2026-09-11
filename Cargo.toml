@@ -3,7 +3,9 @@ resolver = "2"
 members = [
     "grep",
     "cat",
-    "wc"
+    "wc",
+    "head",
+    "file-utils"
 ]
 
 [workspace.package]

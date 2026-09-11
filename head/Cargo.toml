@@ -1,0 +1,9 @@
+[package]
+name = "rhead"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+file-utils = { path = "../file-utils" }
+clap = { workspace = true }
